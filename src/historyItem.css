@@ -1,0 +1,28 @@
+.lists {
+  display: flex;
+  justify-content: flex-start;
+  margin: 5px;
+}
+.para {
+  width: 140px;
+}
+.img {
+  height: 25px;
+  width: 25px;
+}
+.img-container {
+  display: flex;
+  margin: 5px;
+  align-items: center;
+}
+.item-container {
+  display: flex;
+  justify-content: flex-start;
+}
+p {
+  width: 300px;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
